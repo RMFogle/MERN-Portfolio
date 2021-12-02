@@ -23,7 +23,7 @@ export const Boxes = styled.div`
 `
 
 export const Box = styled.div`
-  background: #C0C0C0;
+  background: #A9A9A9;
   border-radius: 12px;
   height: 144px;
   padding: 24px;
@@ -83,7 +83,7 @@ export const BoxNum = styled.h5`
 
 export const BoxText = styled.p`
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.02em;

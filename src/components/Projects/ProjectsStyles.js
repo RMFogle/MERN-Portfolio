@@ -23,7 +23,7 @@ row-gap: 3rem;
 
 `
 export const BlogCard = styled.div`
-  background: #A7A7A7;
+  background: #A9A9A9;
   border-radius: 10px;
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   text-align: center;
@@ -89,7 +89,7 @@ background: #212d45;
 border-radius: 20px;
 transition: 0.5s;
 &:hover{
-  background: #7F5BFB;
+  background: #800080;
 
 }
 `;
@@ -100,6 +100,7 @@ justify-content: space-around;
 padding: 2rem;
 `
 export const Tag = styled.li`
-color: #7F5BFB;
+color: #800080;
 font-size: 1.5rem;
+font-weight: 600;
 `

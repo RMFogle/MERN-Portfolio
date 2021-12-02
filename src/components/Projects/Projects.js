@@ -5,7 +5,6 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 import { CgWebsite } from 'react-icons/cg';
 import { AiOutlineGithub } from 'react-icons/ai';
-import { SocialIcons } from '../Header/HeaderStyles';
 
 const Projects = () => (
   <Section nopadding id="projects">
