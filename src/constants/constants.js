@@ -28,12 +28,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: '(coming soon)',
-    description: "Description of app...",
-    image: 'https://user-images.githubusercontent.com/194400/49531010-48dad180-f8b1-11e8-8d89-1e61320e1d82.png',
-    tags: ['React'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'chat-app',
+    description: "Personal chat app that allows an admin to add users and create different chat boards.",
+    image: '/images/prj4.png',
+    tags: ['React', 'React-Chat-Engine', 'Chatengine.io'],
+    source: 'https://github.com/RMFogle/chat-app',
+    visit: 'https://chat-app-personal.netlify.app/',
     id: 3,
   },
 ];
