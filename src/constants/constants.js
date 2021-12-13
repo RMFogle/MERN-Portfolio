@@ -1,20 +1,20 @@
 export const projects = [
   {
+    title: 'Advisor',
+    description: "Advisor is a personal time management application with a custom built pomodoro clock. I used Material-UI for styling.",
+    image: '/images/prj2.png',
+    tags: ['MongoDB', 'Express', 'React Redux', 'Node'],
+    source: 'https://github.com/RMFogle/advisor',
+    visit: 'https://advisor-app.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'kitch',
     description: "Kitch is a utility app for catering companies to track inventory, clients and bookings. It utilizes mongoDB charts for data analytics.",
       image: '/images/prj1.png',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/RMFogle/kitch-app',
     visit: 'https://intense-castle-88953.herokuapp.com/',
-    id: 0,
-  },
-  {
-    title: 'Advisor',
-    description: "Advisor is a personal time management application with a custom built pomodoro clock.",
-    image: '/images/prj2.png',
-    tags: ['MongoDB', 'Express', 'React Redux', 'Node'],
-    source: 'https://github.com/RMFogle/advisor',
-    visit: 'https://advisor-app.netlify.app/',
     id: 1,
   },
   {
