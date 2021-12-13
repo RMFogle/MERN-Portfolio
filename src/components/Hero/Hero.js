@@ -11,7 +11,7 @@ const Hero = () => (
         Full-Stack Developer
       </SectionTitle>
       <SectionText>
-      I'm from Los Angeles, CA. I focus on MERN stack web development to bring the best experience to your users. However, I'm always happy to learn new technologies. Here is some of my work...
+      I'm from Los Angeles, CA. I focus on MERN stack web development. However, I'm always happy to learn new technologies. Here is some of my work...
       <br />
       <br />
       </SectionText>
